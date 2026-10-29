@@ -19,7 +19,7 @@ calibration in a C++ pricing library)
 | Project | What it shows |
 |---|---|
 | 📈 [**backtesting-py**](https://github.com/Matthis44/backtesting-py) | Event-driven backtester with a MySQL securities master: validated, idempotent daily price loads, data quality checks, tests and CI |
-| ⚙️ [**tradingAppCPP**](https://github.com/Matthis44/tradingAppCPP) | The same engine in C++17, cross-validated against the Python version, with an Alpaca intraday data pipeline |
+| ⚙️ [**backtesting-cpp**](https://github.com/Matthis44/tradingAppCPP) | The same engine in C++17, cross-validated against the Python version, with an Alpaca intraday data pipeline |
 | 🔎 [**rag-ngap-poc**](https://github.com/Matthis44/rag-ngap-poc) | Retrieval-augmented generation built from scratch on French healthcare billing regulations |
 | 📉 [**ml-optimization**](https://github.com/Matthis44/ml-optimization) | Gradient, stochastic, coordinate and quasi-Newton methods from scratch with convergence analysis |
 | 🧪 [**data-science-basics**](https://github.com/Matthis44/data-science-basics) | pandas, NumPy and scikit-learn, including time-series cross-validation and look-ahead bias |
