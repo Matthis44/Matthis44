@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hi, I'm **Matthis Guerin**, **IT Quant in QIS Data at Natixis** (via Meritis) in Paris.
+Hi, I'm **Matthis Guerin**, **IT Quant in QIS Data at Natixis** in Paris.
 I design, build and own automated production data pipelines for financial datasets: pricing and
 reference data for equity index futures and options, from sourcing and extraction (LSEG DataScope
 Select, OneTick, IVolatility) to transformation, validation and delivery. I work with traders,
