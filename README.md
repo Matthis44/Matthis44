@@ -1,10 +1,11 @@
 # 👋 About Me
 
-Hi, I'm **Matthis Guerin**, **IT Quant in QIS Data at Natixis** in Paris.
-I build production market data pipelines for equity index futures and options: automated
-ingestion from LSEG DataScope Select, OneTick and IVolatility, historical datasets for
-backtesting and research, TWAP calculations, data quality monitoring, and Python APIs on
-DuckDB and Polars over several terabytes of market data.
+Hi, I'm **Matthis Guerin**, **IT Quant in QIS Data at Natixis** (via Meritis) in Paris.
+I design, build and own automated production data pipelines for financial datasets: pricing and
+reference data for equity index futures and options, from sourcing and extraction (LSEG DataScope
+Select, OneTick, IVolatility) to transformation, validation and delivery. I work with traders,
+structurers and quantitative researchers on systematic strategies, and focus on data quality:
+monitoring, anomaly investigation and Python APIs on DuckDB and Polars over terabytes of market data.
 
 🎓 **École Polytechnique**, M2 Applied Mathematics and Data Science · **ECE Paris**, MSc Finance
 and Quantitative Engineering (ranked 1st of 102)
