@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hi, I'm **Matthis Guerin**, **IT Quant in QIS Data at Natixis** (via Meritis) in Paris.
+Hi, I'm **Matthis Guerin**, **IT Quant in QIS Data at Natixis** in Paris.
 I build production market data pipelines for equity index futures and options: automated
 ingestion from LSEG DataScope Select, OneTick and IVolatility, historical datasets for
 backtesting and research, TWAP calculations, data quality monitoring, and Python APIs on
@@ -64,6 +64,3 @@ calibration in a C++ pricing library)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
-
-[![GitHub streak](https://streak-stats.demolab.com?user=Matthis44&theme=dark&hide_border=true)](https://github.com/Matthis44)
